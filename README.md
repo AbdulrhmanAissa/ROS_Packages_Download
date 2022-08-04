@@ -22,3 +22,5 @@ Then, we will open another terminal and change directory to the one that we made
 Then we will write catkin init , and catkin_make
 
 Lastly, we will clone from git https://github.com/smart-methods/arduino_robot_arm and then put the source /home/abdulrhmanaissa/catkin_ws/devel/setup.bash
+
+Launch ROS
